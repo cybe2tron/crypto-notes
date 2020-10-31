@@ -30,3 +30,7 @@
 **tee**
 
 <span style="color: red;">```ls | tee file.txt```</span>  show output on screen as well as save to file.txt<br>
+
+**env**
+
+it will show env variables and lots of other info.
